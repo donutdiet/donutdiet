@@ -1,1 +1,1 @@
-Building fun software projects that improve my understanding of software development. 
+Building fun projects that improve my understanding of software development. 
